@@ -1,0 +1,101 @@
+100 100
+                                .:=+++:                                                             
+                              .=+++++!**:                                                           
+                            .=++++!!z$&&Z=                                                          
+                           .+++++!!x@$z$%X:                                                         
+                          :=+++++!!%@%*!!$%                                                         
+                         :=++++++!!z#!&XXzX+                                                        
+                        .==++++++!!*X+&@@z%x                                                        
+                       .==+++++++!!+zX&@@&x*.                                                       
+                       ===++++++++!++zxxxx++++=.                                                    
+                .:    :===+++++++++++++==:::::=+:            ....=!+:                               
+               =&@x  .====++++++++++=:.::::====:=          .xZXXXX$$$X+          =!xzzzx+.          
+               z#@$  :====++++++++=:.::=:::======         =%X$$$$$XX$&Z!      .*%ZZXXXXX$$Z+        
+               %&#X .=====++++===:   !zzz*..:===:        :zZXX$$&X%%$XX%     !%ZZXX$$$XXXX%XZ=      
+     ..       .Z#@Z.:============ :=:.%ZZx  :===.        *z%ZXX$X$@$X&@#=  .x%ZZXX$$$$$Xz%Z%$&*     
+    x##z:     .X&@&===========!x!=%ZZ+xXXx!*:==.        .xz%ZZXX$@@@&@@@X :z%%ZZXX$$$$&&$Z$XX$&x    
+   :X$#@@Z:   xX&#@*:======:+*z%%ZX$#&X##$$Z=:          =*xz%%ZX#@@@@@&&@xxz%%ZZXXX$$$&&&&$$$X$&*   
+    %XX$#@@XZ$$X&@@$======.=z%ZZX$$&@@&#@$Z&+           +*xzz%ZX@@@@@#z*zZzz%%%ZZXX$$$$&&&$$$$X$&=  
+     +zX$&@@@#$$#@@@!===:::=%ZX$&#Z*z@##@X+$Zx+         +**xzz%X@#@@@&!!+zzzz%%ZZXXX$$$$&&$$$$$X$Z  
+  +**!*X&$&@@#&#@@@@%::::::.xX$&##*==X##@XZ&###%        =**xxzz$Z**#@@!=zxxzzz%%ZZXXX$$$$&$$$$$$X$* 
+:$##@@@@@@@@@@@@@@@@&xx=.:::=zX&&@x .%@&XZ&#@@@#x       :****xzZ+$:*@@%!xxxxzzz%%ZZXXX$$$$$$$$$$$XZ 
+%XXX$$$&##@@@@@@@@@@@&XZ+::==!X&&@$::Z#ZzZ$&#@@#X        *****xz.:==#@Z*xxxxxzz%%%ZZXXX$$$$$$$$$$XX=
+xZX$&#####@@@@@@@@@@#Zz%%::::*$&#%+*x$X%%ZX$&##&$.      :!*****%=:+:X#%xxxxxxxzz%%ZZZXXX$$$$$$$$$XX*
+=$####@@####@@@@@@@@&#&zz*:=+%$&$+ .+!==z%ZX$$&$Z     :xx******%x.:.%$x*xxxxxxzzz%%ZZZXXXX$$$$$$XXZz
+zXXXXX$&&&&###@@@@@#&@@zxz+.!ZX$Z! .:.. +%ZZZXXX+    :zz*!*****zX+ :XXx***xxxxxzz%%%ZZZZXXXXXXXXXXZz
+x%%ZX&@@&XX$&&&###&$#@$*zzz!zZZXZ%=   .. +%Z%%z+     *zx!!!*****$$x%&%****xxxxxxzzz%%%ZZZZXXXXXXXXZz
+.x$@@#$XZZZZXXXXXXZ$@#x!*z%%ZZZZZZ%*+.    :!*+.     .xx*!!!****xZ##$z******xxxxxxzzzz%%%ZZZZZZZZZZZz
+ +$$XZZZZZZZZZZZ%%Z$$x!*!*z%%ZZZZZZXZx:.:     :=     *x*!!!***x%X$$%x*!****xxxxxxxzzzz%%%%ZZZZZZZZ%z
+ !ZZZx+=+zXXZZZZ%%ZZ*=+!*!!x%%ZZZZX$Xz*zz*!+=*X=     =**!!!**xz%X$$%z*!****xxxxxxxxxzzz%%%%%%%%%%%%x
+  **:     =*zZZZ%ZZx==++!*!!x%%ZZZZXX%!xxxx!%$%      .!!!!!**x%%ZX$Zz*!****xxxxxxxxxxzzzzz%%%%%%%%%*
+             .xZZZx:===++!!!!*%%Z%%ZX$:    x&$=       .!!!!**x%Z$&&$%x!!*xxxxxxxxxxxxxzzzzzzzzz%%%z=
+              =XZ!:=====++!!!+*%%%%ZX$%===+&$*         .++!**%&@@@@@#Xx!*xxxxxxxxxxxxxxxzzzzzzzzzzz 
+               .  :======++!!!+!z%%%ZX$X%%$&x            :!*%&@@@@@@@&X*!*xxxxxxxxxxxxxxxxzzzzzzzz! 
+                   :======++!!!+!xz%%ZXX$&$%=          .=+!z$&#@@@@@@#&Z**xxxxxxxxxxxxxxxxxxzzzzzx  
+                    .=======+!!!==+!xz%Z%%x=+!+=.     +*!!xX$&#@@@@@@#&$z!*xxxxxxxxxxxxxxxxxxxxxx:  
+                     .=======++!!=:+++***!==:=+!*!+:.+x!!!%X$&#@@@@@@@#$Z*!xxxxxxxxxxxxxxxxxxxxx=   
+                      .=======++!+::+!!+=+!!+==++*!+*x*!!*ZX$$&#@@@@@@#&Xz!*xxxxxxxxxxxxxxxxxxx+    
+                       .=======++++::+!!xx+!!!+=+$&*+**!+zZXX$&#@@@@@@#&$Z*:*xxxxxxxxxxxxxxxxx+     
+                        .=======++++::+z##Z!!!!!+!$$+*!!+zZZX$$&#@@@@@#&$Xz..!xxxxxxxxxxxxxxx:      
+                         .========+!!:=x###x!!!!!++x=+!!+zZZXX$&&##@@@#&$XZ+ .=!xxxxxxxxxxx+.       
+                           :======+!!+==%$&x!!!!!!!+::!!+z%ZZX$$&&####&&$$Z!.::.:+xxxxxx*+.         
+                           .======+++++==!*!!!!!!!!!=.!!+x%%ZXX$$$&&&&&&$$Xx.:==:.+* .              
+                            :=====++=+++==+!!!!!!!!!++zz*!z%ZZXX$$$&&&&&$$XXz=:=::.x                
+                            .=====+==++!!!!!!!!!!!!!+*z%zxzz%ZZXX$$$$$$$$$$$$Zx+::=z:               
+                             :======+++++!!!!!!!!!!!!!xzzx*zz%ZZZXX$$$$$$$$$$$$XZ%%Z!               
+                             .:======++++!!!!!!!!!!!!+xzzx+!zz%%ZZZXXXXXXXX$$$$$&$$$=               
+                              ::======+++++!!!!!!!!!!++zz!++!xzz%%%ZZZZXXZZXXX$$$&&x                
+                              .=======++++++!!!!!!!+++::x!!++!*xzzz%%%ZZZZZZZz+=++:                 
+                               :=======+++++++++++++++. .!!++=+!*xxxzzz%%%%x=                       
+                               .=======+++++++!!!!!!!!:  !!+++===+!!**xxxz+                         
+                                ==========++++++!!!!!!!= :!!+=====++!!!!!z=                         
+                                =============+++++!!!!!!= .==:==++++!!**!zx                         
+                                :==============++++!!!!!!.   .=++!!**!***%%                         
+                                :================++++!!!!=  :++!xz%zz****%Z.                        
+                                .=================++++!!!+.:++!x%ZX$$Zzx*ZX:                        
+                                 ========:::::=====++++++++++!!x%ZX$&&Xx*Z$+                        
+                                 :=======::::::::===++++++++!!!*x%Z$$&X%*Z$*                        
+                                  :=======:::::::===+++++++**++!*zZX$&$ZxX$x                        
+                                   :=======:::::====+++++!!xz!*zzz%X$&$XxX$z                        
+                                    .::::::::::=====++++!!!!xz%%X$XZX$$XZ&$z                        
+                                       ::::...:=====++++!!+!xz%%zZ&XX$$$$@$%                        
+                                      .==::::..=====++++++!xzz%%%xzXZX$$$@&%                        
+                                     xx+=====**:=====+++++!*xzz%%z*xZX$&X$&z                        
+                                     $$XZ%%ZXXZ=::===++++!!**xxzxx*!xX$&$X$x                        
+                              .======z$###&&$X%+::====+++!!!!!***!+=!Z$$&XX!                        
+                              !**!!!!+!xz%%zx!+=:=======+++++++++=+xz%X$&$Z=                        
+                              !****!!!!!!!!!!!!+:======+++=====:=zX%*zX$$$Z.                        
+                              +**********!!!!!!+::==::=+====::=xZ%!=!xZ$$&X:                        
+                              .z*********!!!!!!+==:::=====::=!zx!++=+*%X$&$!                        
+                               *x********!!!!!!+:::====:::=+*x!+!!!++*zX$$&%                        
+                                z*********!!!!!!+=====:::+**!!!*zx!+**xZ$$&X.                       
+                                =z*********!!!!!+:==:::!!++!!!*zZx!x**x%$$&$:                       
+                                 *z********!!!!!!=:::!**!+!!**z%%*xz*!x%X$&$!                       
+                                  zz****!!!!!!!!!!++**!+!!!**x%%%z%x*+*%$&&$z                       
+                                  .$%*!!!!!!!!**xx***!*******z%%ZZzx!!zZ$&&$Z                       
+                                  z$Z%x!++++!*xz%Z%zzxxxxx***z%XX%z*!zXX$&&$X.                      
+                                 !&ZZZZz*+++*xz%%ZXXXZzzxxx**z$$Zzx!!%XX$&&$X:                      
+                                 $XZZXXZ%x*!xzz%%ZXX$$Xzzxx*x$$Z%z*+!zZX$&$$X=                      
+                                *&%ZZXXX%%%*xzz%%ZZXXXX%zzx*z$XZ%x+=!z%X$$$$X:                      
+                               .$X%ZZXXZ%ZZ*xzz%%ZZXXXZZzzx*%XZZz!!+!xz%X$$XZ:                      
+                               x&%%ZZZXZ%XZzxzz%%ZZZZZZ%zxx*XXXZx!!+!xz%ZXXXZ:                      
+                              .&Z%%ZZZZ%%XZZ%zz%%%ZZZZZ%zx*%$XXX%z%*+xxz%ZZZ%.                      
+                              *$%%%%%ZZz%ZZZZ%%%%%%%%%%%zxz$$$$$XX&X+!xxz%ZZz                       
+                             .$Z%%%%%%Zz%XZ%%%%z%%%%%%%zxx$&&&$x!Z$Z+=*xxz%X=                       
+                             *$%%%%%%%%x%ZZ%%zzzzzzzzzzzxX$Zz!. =%X%**%zxzZz                        
+                            .&Z%%%%%%%%xzZZzzzzzzzzzzzxx=.      :zX$$Z%xxx%.                        
+                            x&%%%%%%%%z*zZ%xxxxxxxxxxx*=         !z%Zz*xxxz                         
+                           =&Z%ZZZ%%zzx*x%%xxxx*******:           :***xxxx.                         
+                           %$%ZZZZZ%zxxxxz%*********+.             .=!**+                           
+                          =&Z%ZZZZZ%zxxxxz%*******+:                                                
+                          Z$%ZZZZZZ%z**xxxz**!!+:                                                   
+                         :&%%ZZZZZZZz***xxx=.                                                       
+                         %Zz%%ZZZZZ%x+  *xx.                                                        
+                        :Xxz%%%%ZZZ%*   .=:                                                         
+                        *%xzz%%%%%%%!                                                               
+                       .Zxxxzz%%%%%%+                                                               
+                       :%xxxxzz%%%%z:                                                               
+                        +xxxxxzzzzz*                                                                
+                         +xxxxxxxxx.                                                                
+                          +xxxxxx*:                                                                 
+                           :!***+.                                                                  
