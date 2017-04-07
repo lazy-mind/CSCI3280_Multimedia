@@ -1,6 +1,5 @@
 /*
- * the program is from the internet
- * it search the thing that partially match 
+ * search the directory for keywords matching
  */
 
 // regex_search example  
@@ -12,10 +11,12 @@
 
 using namespace std ;
 
-string* search_by_keywords(string* key_array, string database_path, string musiclib_path, int &item_num) {
+string* search_by_keywords(string* key_array, string database_path, string musiclib_path, int &item_num) 
+{
+    //set the default searching path
+    if (database_path == ""){database_path = "./music_information.txt";}
+    if (musiclib_path == ""){database_path = "./";}
 
-    // cout<<"debug search"<<endl;
-   
     // how many keys are there
     int key_num=0;
     while (!(key_array[key_num].empty())){key_num++;}
@@ -37,9 +38,6 @@ string* search_by_keywords(string* key_array, string database_path, string music
     int index=0;
     string music_path;
 
-
-    // cout<<"debug read and find"<<endl;
-
     //for each item, do a searching
     while(getline(infile,each_song)){
 
@@ -52,8 +50,8 @@ string* search_by_keywords(string* key_array, string database_path, string music
         // do the key search for each key on the item
         for(key_i=0;key_i<key_num;key_i++){
                 
-                // renew the string as the original one
                 each_song = song_copy;
+
                 // define regular expression method
                 smatch match_word;
                 string key = "([^ ]*)"+key_array[key_i]+"([^ ]*)";
@@ -61,16 +59,17 @@ string* search_by_keywords(string* key_array, string database_path, string music
                 
                 // if the searching is correct, figure the file name
                 while (regex_search (each_song,match_word,pattern)) { 
-                        music_path="../music/";
+                        music_path=musiclib_path;
                         counter++;
                         //for (auto x=match_word.begin();x!=match_word.end();x++){}
                         int i=0;
                         for(i=0 ;i<each_song.length(); i++){
                             if(each_song.at(i)==' '){break;}
-                            music_path = music_path + each_song.at(i);
+                            if(each_song.at(i)!='\''){
+                                music_path = music_path + each_song.at(i);}
                         }
                         
-                        music_path = music_path + ".txt";
+                        // music_path = music_path + ".txt";
                         each_song = match_word.suffix().str();
                 }  
         }
@@ -79,21 +78,25 @@ string* search_by_keywords(string* key_array, string database_path, string music
         if(counter==key_num){
             all_music[index]=music_path;
             index++;
-        }}
+        }
+    }
 
 
     // the array that returns
     string* return_list = new string[index];
-    // cout<<"debug : the number of index is : "<<index<<endl;
+    
     int copy =0;
     for(copy=0;copy<index;copy++){
         return_list[copy]= all_music[copy];
     }
-    // cout<<"debug : the number of copy is : "<<copy<<endl;
-    // cout<<"debug exit"<<endl;
+    
     item_num = index;
     return return_list;
 }
+
+
+
+
 
 int main(){  
     //get the keyword one want to search
@@ -131,28 +134,9 @@ int main(){
         key_i++;
     }
 
-
-    // useless checking code here
-    {
-        // // string* key_array = new string[2];
-        // // key_array[0]="app";
-        // // key_array[1]="big";
-
-        // int i=0;
-        // for(i=0; i<3; i++){
-        //     //cout <<key_array[i]<<endl;
-        // }
-    }
-
     //get the music path
     int item_num=0;
     string* candidate_list = search_by_keywords(key_array, database, music_path, item_num);
-
-    //while ((!candidate_list[item_num].empty())){item_num++;}
-
-    //cout<<"debug : the number of item with this method is : "<< length(candidate_list)<<endl;
-
-    // cout<<"debug : the number of item is : "<<item_num<<endl;
     
     int i=0;
     for(i=0; i<item_num; i++){
